@@ -13,9 +13,9 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Machine Learning & AI
+- name: ML & AI
   filter: "machine-learning"
-- name: Design & Web
+- name: Design
   filter: "design"
 - name: Sustainability
   filter: "sustainability"

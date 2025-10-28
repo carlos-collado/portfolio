@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: M.Sc. Student in Computational Science
+designation: Applied AI Engineer at
 # your company information
 company:
-  name: EPFL
-  url: "https://www.epfl.ch/education/master/programs/computational-science-and-engineering/"
+  name: Mistral AI
+  url: "https://mistral.ai/"
 
 image: "files/timeline.png"
 
@@ -21,7 +21,8 @@ image: "files/timeline.png"
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hey! I'm Carlos—a data scientist passionate about Foundation Models and multi-modal AI. I'm currently pursuing my master's at EPFL, having explored some very cool projects at places like ESA, UC Berkeley, and Georgia Tech. I love tackling meaningful challenges in computer vision, NLP, remote sensing, and sustainability, and right now I'm actively looking for thesis opportunities or exciting projects to dive into—let's connect!"
+summary: "I'm building AI solutions at Mistral AI. I have explored some very cool projects at places like ESA, EPFL, UC Berkeley, and Georgia Tech. I enjoy creating impact with AI, from agents and multimodal systems to remote sensing and sustainability. \n
+\n **Updated: Oct 28, 2025**"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

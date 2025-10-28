@@ -2,19 +2,19 @@
 name: "Carlos Collado Capell"
 nickname: "Carlos"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi! I am"
+greeting: "Hey, I'm"
 image: "images/author/square_berkeley.png"
 template: sections/home.html
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "carlos.colladocapell@epfl.ch"
-  # phone: "+34 688 91 37 61"
+  email: "colladocapellcarlos@gmail.com"
+  # phone: "+34 NUMBER"
   github: carlos-collado
   linkedin: carlos-collado-
   # researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - Passionate about AI to build a better world
-  - Always on the lookout for exciting projects
-  - Currently looking for master thesis opportunities
+  - Applied AI Engineer at Mistral AI
+  - MSc Computational Science at EPFL
+  - Previously @ EPFL, ESA, UC Berkeley, Georgia Tech, UC3M
